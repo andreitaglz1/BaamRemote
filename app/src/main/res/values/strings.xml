@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaamRemote</string>
+    <string name="prefs_file">com.baam.baamremote.PREFERENCE_FILE_KEY</string>
+
+    <string name="facebook_app_id">185726780881634</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">EAACo6uLMuuIBAH9RpR7hnc6MpQN0b4a70j7a0yy1xV07w6i4nfKItn9qfbFXx2euahTiwFzMWxgICvdr8Q75axQSzPdDHZBRPR3yXWi6AX8gAAnluVcY0a8aad0p3nXzNqHXkUKATvOgwwDFIvcWvIKG9VyS7rVx4urjHfI0R9I0qkFSTlLyv4RuXQNToth4B3zg8ggZDZD</string>
+
+
+</resources>

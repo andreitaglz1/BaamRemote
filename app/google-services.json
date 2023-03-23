@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889614072676",
+    "project_id": "baamremote",
+    "storage_bucket": "baamremote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889614072676:android:02dc5f41247416ef999871",
+        "android_client_info": {
+          "package_name": "com.baam.baamremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889614072676-76t3mnsudmathnbm9po4i1c6dst1l13f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCIZsxDS9DJmJu6KSpqRqdYzlp8RFsTMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889614072676-76t3mnsudmathnbm9po4i1c6dst1l13f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
